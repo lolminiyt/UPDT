@@ -1,3 +1,4 @@
+## Herramientas para windows
 | Nombre | Enlace | Notas |
 | :-: | :-: | :-: |
 | Windows Activator | [✔️ **Enlace**](https://pastebin.com/BWFT1qKB) | Activador para w10 ej: w10 home | 
@@ -8,3 +9,9 @@
 | DirectX | [✔️ **Enlace**](https://www.microsoft.com/en-us/download/details.aspx?id=35) | DirectX Installer 
 | Winaero Tweaker | [✔️ **Enlace**](https://winaerotweaker.com/) | App para modificar varias cosas de Windows
 | Defender Control  | [✔️ **Enlace**](https://www.sordum.org/9480/defender-control-v2-1/) | app para desabilitar windows defender
+
+## Apps 
+| Nombre | Enlace | Notas |
+| :-: | :-: | :-: |
+| Macrium Reflect | [✔️ **Enlace**](https://www.macrium.com/reflectfree) | App para backup de discos
+| Portable Registrator | [✔️ **Enlace**](https://github.com/SiL3NC3/PortableRegistrator) | Registrar apps portables como predeterminadas
