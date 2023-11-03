@@ -9,4 +9,5 @@
 | :-: | 
 | [✔️ **Windows**](tools/windows.md) | 
 | [✔️ **Drivers**](tools/drivers.md) | 
+| [✔️ **Minecraft**](tools/minecraft.md) | 
 | [Fr]
