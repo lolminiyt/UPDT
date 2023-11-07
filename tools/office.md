@@ -1,36 +1,35 @@
-
 # Configuracion.xml
 
 XML CREATOR: https://config.office.com/deploymentsettings
 
 ### Productos y Versiones
 - Arquitectura:
-Selecciona la arquitectura dependiendo tu pc
+Selecciona la arquitectura dependiendo tu PC
 
 - Productos:
 Recomiendo Office LTSC Professional Plus 2021: licencia por volumen
 
 - Visio:
-A eleccion
+A elección
 
 - Project:
-A eleccion
+A elección
 
 - Productos adicionales:
-A eleccion
+A elección
 
 - Aplicaciones:
-A eleccion
-(Yo siempre selecciono Powerpoint,Word,Excel y Outlook)
+A elección
+(Yo siempre selecciono PowerPoint, Word, Excel y Outlook)
 
-### Instalacion
+### Instalación
 - Dejar Default
 
-### Actualizacion
+### Actualización
 - Dejar Default
 
 ### Licencias y activación 
-- Activar aceptar los terminos de licencia automaticamente
+- Activar aceptar los términos de licencia automáticamente
 - Resto dejar Default
 
 ### Formato de archivo predeterminado
@@ -42,8 +41,8 @@ A eleccion
 # Instalar Office
 
 - Descargar https://www.microsoft.com/en-us/download/details.aspx?id=49117
-- Ejecutar el archivo y copiar el setup.exe a la ubicacion del xml creado anteriormente
-- Abrir cmd en la ubicacion y ejecutar: setup.exe /download configuracion.xml
+- Ejecutar el archivo y copiar el setup.exe a la ubicación del XML creado anteriormente
+- Abrir cmd en la ubicación y ejecutar: setup.exe /download configuracion.xml
 - Al terminar ese proceso proceder con: setup.exe /configure configuracion.xml
 
 # Activar Office
