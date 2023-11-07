@@ -8,6 +8,7 @@
 | Herramientas |
 | :-: | 
 | [✔️ **Windows**](tools/windows.md) | 
+| [✔️ **Office**](tools/office.md) |
 | [✔️ **Drivers**](tools/drivers.md) | 
 | [✔️ **Minecraft**](tools/minecraft.md) | 
 | [Fr]
