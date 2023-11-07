@@ -19,7 +19,7 @@ A eleccion
 - Productos adicionales:
 A eleccion
 
-- Aplicaciones 
+- Aplicaciones:
 A eleccion
 (Yo siempre selecciono Powerpoint,Word,Excel y Outlook)
 
@@ -45,3 +45,5 @@ A eleccion
 - Ejecutar el archivo y copiar el setup.exe a la ubicacion del xml creado anteriormente
 - Abrir cmd en la ubicacion y ejecutar: setup.exe /download configuracion.xml
 - Al terminar ese proceso proceder con: setup.exe /configure configuracion.xml
+
+# Activar Office
