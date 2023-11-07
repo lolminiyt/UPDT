@@ -12,3 +12,6 @@
 | [✔️ **Office**](tools/office.md) |
 | [✔️ **Minecraft**](tools/minecraft.md) | 
 | [Fr]
+
+
+[![Hits](https://hits.sh/github.com/lolminiyt/UPDT.svg?style=for-the-badge&label=Vistas)](https://hits.sh/github.com/lolminiyt/UPDT/)
