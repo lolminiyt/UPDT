@@ -49,7 +49,7 @@ A elección
 
 Activador: https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases/, descargar el .7z y descomprimirlo
 
-# Pasos
+### Pasos
 
 - Ejecutar KMS_VL_ALL_AIO.cmd
 - [Process Windows], si esta en Yes, presionar 5  para desactivarlo
