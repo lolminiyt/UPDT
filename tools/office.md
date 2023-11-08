@@ -46,3 +46,14 @@ A elección
 - Al terminar ese proceso proceder con: setup.exe /configure configuracion.xml
 
 # Activar Office
+
+Activador: https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases/, descargar el .7z y descomprimirlo
+
+# Pasos
+
+- Ejecutar KMS_VL_ALL_AIO.cmd
+- [Process Windows], si esta en Yes, presionar 5  para desactivarlo
+- Seleccionar 1 para activar Office
+- 2 para instalar el autoRenewal
+
+El autorenewal es necesario, ya que el office se desactiva despues de 180 dias por el tipo de acitvacion que utiliza
