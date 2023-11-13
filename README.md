@@ -10,7 +10,7 @@
 | [✔️ **Windows**](tools/windows.md) | 
 | [✔️ **Drivers**](tools/drivers.md) | 
 | [✔️ **Office**](tools/office.md) |
-| [✔️ **Minecraft**](tools/minecraft.md) | 
+| [✔️ **Juegos**](tools/juegos.md) | 
 | [Fr]
 
 
