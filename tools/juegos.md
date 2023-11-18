@@ -1,6 +1,6 @@
 | Herramientas |
 | :-: | 
-| [✔️ **Minecraft**](/minecraft.md) | 
+| [✔️ **Minecraft**](/tools/minecraft.md) | 
 
 # Descargar juegos 
 
