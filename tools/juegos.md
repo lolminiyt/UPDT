@@ -1,6 +1,7 @@
 | Herramientas |
 | :-: | 
-| [✔️ **Minecraft**](/tools/minecraft.md) | 
+| [✔️ **Minecraft Java**](/tools/minecraft.md) | 
+| [✔️ **Minecraft Bedrock**](/tools/minecraft.md) | 
 
 # Descargar juegos 
 
