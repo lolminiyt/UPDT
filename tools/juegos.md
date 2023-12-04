@@ -11,7 +11,7 @@ La pagina que recomiendo es https://cs.rin.ru/forum/, tiene mucha informacion so
 
 Ahora, la parte importante es ***___Steam Content Sharing___***, este incluye la mayoria de juegos sin piratear.
 
-(Recuedo, la contraseña de los links de descarga es ~~cs.rin.ru~~ )
+(Recuerda, la contraseña de los links de descarga es ~~cs.rin.ru~~ )
 ### Advertencia
 
 Este metodo que voy a explicar solo se puede hacer con juegos que tengan drm de steam.
