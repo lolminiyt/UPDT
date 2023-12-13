@@ -66,7 +66,7 @@
 
 **Detalles Significantes**
 1. Boton encendido circular
-2. 
+
 **Especificaciones**
 | Cpu | Ram | Gpu | 
 | :-: | :-: | :-: | 
@@ -80,7 +80,7 @@
 
 **Detalles Significantes**
 1. Boton encendido ovalado en posicion vertical
-2. 
+   
 **Especificaciones**
 | Cpu | Ram | Gpu | 
 | :-: | :-: | :-: | 
@@ -96,7 +96,7 @@
 **Detalles Significantes**
 1. Camara frontal giratoria
 1. Boton encendido ovalado en posicion horizontal color naranja
-2. 
+   
 **Especificaciones**
 | Cpu | Ram | Gpu | 
 | :-: | :-: | :-: | 
