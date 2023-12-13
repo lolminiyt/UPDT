@@ -156,8 +156,7 @@
 
 **Detalles Significantes**
 1. Boton encendido ovalado color negro ubicado de manera horizontal en el lado izquierdo
-1. A diferencia de la G7 esta netbook carece del conector USB tipo C (es una de las pocas diferencias con G7, aparte del microprocesador, etc)
-
+1. Exteriormente Igual a las anteriores G7,G8 Y G9
 **Especificaciones**
 | Cpu | Ram | Gpu | 
 | :-: | :-: | :-: | 
