@@ -66,6 +66,7 @@
 
 **Detalles Significantes**
 1. Boton encendido circular
+2. 
 **Especificaciones**
 | Cpu | Ram | Gpu | 
 | :-: | :-: | :-: | 
@@ -79,6 +80,7 @@
 
 **Detalles Significantes**
 1. Boton encendido ovalado en posicion vertical
+2. 
 **Especificaciones**
 | Cpu | Ram | Gpu | 
 | :-: | :-: | :-: | 
@@ -94,6 +96,7 @@
 **Detalles Significantes**
 1. Camara frontal giratoria
 1. Boton encendido ovalado en posicion horizontal color naranja
+2. 
 **Especificaciones**
 | Cpu | Ram | Gpu | 
 | :-: | :-: | :-: | 
@@ -157,6 +160,7 @@
 **Detalles Significantes**
 1. Boton encendido ovalado color negro ubicado de manera horizontal en el lado izquierdo
 1. Exteriormente Igual a las anteriores G7,G8 Y G9
+   
 **Especificaciones**
 | Cpu | Ram | Gpu | 
 | :-: | :-: | :-: | 
