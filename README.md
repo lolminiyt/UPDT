@@ -12,7 +12,6 @@
 | [✔️ **Office**](tools/office.md) |
 | [✔️ **Juegos**](tools/juegos.md) | 
 | [✔️ **ARGENTINA**](tools/argentina.md) | 
-| [Fr]
 
 
 [![Hits](https://hits.sh/github.com/lolminiyt/UPDT.svg?style=for-the-badge&label=Vistas)](https://hits.sh/github.com/lolminiyt/UPDT/)
