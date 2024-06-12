@@ -41,8 +41,10 @@ A elección
 # Instalar Office
 
 - Descargar https://www.microsoft.com/en-us/download/details.aspx?id=49117
-- Ejecutar el archivo y copiar el setup.exe a la ubicación del XML creado anteriormente
+- Ejecutar el archivo y selecciona algun lugar para extraer
+- Copia configuracion.xml a donde esta el setup.exe 
 - Abrir cmd en la ubicación y ejecutar: setup.exe /download configuracion.xml
+    - (Puede tardar rato, ya que esta descargando el office y pesa bastante)
 - Al terminar ese proceso proceder con: setup.exe /configure configuracion.xml
 
 # Activar Office
