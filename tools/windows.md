@@ -22,7 +22,8 @@
 | Top Personal | Nombre | Enlace | Notas |
 | :-: | :-: | :-: | :-: |
 | 1 |  Windows X-LITE | [✔️ **Enlace**](https://windowsxlite.com/) | Windows Mod, builds ligeras, estables.
-| 2 | Nexus Lite Os | [✔️ **Enlace**](https://nexusliteos.blogspot.com/) | Builds estables 
-| 3 | Windows Ltsc | [✔️ **Enlace**](https://software-download.microsoft.com/download/sg/444969d5-f34g-4e03-ac9d-1f9786c69161/19044.1288.211006-0501.21h2_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_es-es.iso) | no un MOD, pero es version muy ligera
-| 4 | Winter OS | [✔️ **Enlace**](https://www.youtube.com/watch?v=Njudr5fKpDU) | No muy ligero, pero muchas configs
-| Mierda | MiniOs Doofy | [❌ **No**](https://github.com/lolminiyt/UPDT/blob/main/tools/windows.md) | la mierda mas inestable y incompatible
+| 2 |  Atlas OS | [✔️ **Enlace**](https://atlasos.net/) | No una iso como tal, pero es muy bueno.
+| 3 | Nexus Lite Os | [✔️ **Enlace**](https://nexusliteos.blogspot.com/) | Builds estables.
+| 4 | Windows Ltsc | [✔️ **Enlace**](https://software-download.microsoft.com/download/sg/444969d5-f34g-4e03-ac9d-1f9786c69161/19044.1288.211006-0501.21h2_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_es-es.iso) | no un MOD, pero es version muy ligera.
+| 5 | Winter OS | [✔️ **Enlace**](https://www.youtube.com/watch?v=Njudr5fKpDU) | No muy ligero, pero muchas configs.
+| Mierda | MiniOs Doofy | [❌ **No**](https://github.com/lolminiyt/UPDT/blob/main/tools/windows.md) | la mierda mas inestable y incompatible.
