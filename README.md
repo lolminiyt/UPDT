@@ -11,6 +11,7 @@
 | [✔️ **Drivers**](tools/drivers.md) | 
 | [✔️ **Office**](tools/office.md) |
 | [✔️ **Juegos**](tools/juegos.md) | 
+| [✔️ **Cristi/Juana Manso**](tools/juana.md) | 
 | [✔️ **ARGENTINA**](tools/argentina.md) | 
 
 
