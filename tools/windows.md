@@ -2,7 +2,7 @@
 | Nombre | Enlace | Notas |
 | :-: | :-: | :-: |
 | Windows Activator | [✔️ **Enlace**](https://pastebin.com/BWFT1qKB) | Activador para w10 ej: w10 home | 
-| Microsoft Activation Scripts (MAS) | [✔️ **Enlace**](https://github.com/massgravel/Microsoft-Activation-Scripts) | Script para activar windows. |
+| ⭐ Microsoft Activation Scripts (MAS) | [✔️ **Enlace**](https://github.com/massgravel/Microsoft-Activation-Scripts) | Script para activar windows. |
 | KMS_VL_ALL_AIO | [✔️ **Enlace**](https://github.com/abbodi1406/KMS_VL_ALL_AIO) | Script para activar windows. |
 | Windows LTSC Activator | [✔️ **Enlace**](https://www.mediafire.com/file/o99ssa09w8o85mg/LTSC.zip/file) | Activador para LTSC 21H2 |
 | Windows Store Installer | [✔️ **Enlace**](https://www.mediafire.com/file/8gorwha91g0dfmo/Store_Installer.zip/file) | Store_installer.bat 
